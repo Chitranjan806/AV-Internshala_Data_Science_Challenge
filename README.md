@@ -1,4 +1,4 @@
-# Premium Deposits Success Prediction
+# Predicting On Time Premium Deposits
 
 A Regression Analysis project to predict the success rate of On-Time deposits of Premiums by Policy Holders.
 
